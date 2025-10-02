@@ -1,0 +1,8 @@
+{
+  "id": 0,
+  "title": "My First Title",
+  "price": 0.1,
+  "description": "Test API",
+  "category": "Rest Assured",
+  "image": "http://example.com"
+}
